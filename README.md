@@ -27,7 +27,7 @@ For this assignment, we'll get you set up to complete and submit your
 assignments. We'll also do a quick walkthrough of the steps so you will know
 what to do in future assignments.
 
-### A Quick Note on Organizing Work on Your Machine
+### A Quick Note on Organizing Work on Your Machines
 
 Through this course, you will be downloading many assignments, so it is
 important to take a moment now to think about how you'll organize this work on
